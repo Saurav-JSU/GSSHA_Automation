@@ -1,4 +1,4 @@
-GSSHA .xys automation
+GSSHA .xys automation (All code in Code/gssha_automation_xys.py and Code/gssha_automation_gag.py)
 
 This repository contains a set of scripts designed to automate the processing of time series data from the Coastal Emergency Risks Assessment (CERA) platform and integrate it into GSSHA (Gridded Surface Subsurface Hydrologic Analysis) models. The scripts convert JSON data files to CSV and XYS formats, and perform geospatial operations on study areas using contour lines. The scripts are optimized for macOS environments.
 
