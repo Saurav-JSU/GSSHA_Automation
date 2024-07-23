@@ -1,5 +1,5 @@
 
-GSSHA .gag Automation
+GSSHA .gag Automation (All code in Code/gssha_automation_gag.py and Code/main_gag.py)
 
 This repository also contains scripts to automate the extraction of precipitation data from Google Earth Engine and convert it into .gag format for GSSHA models. The scripts handle shapefile processing, data extraction from various datasets, and the conversion to GAG format.
 
